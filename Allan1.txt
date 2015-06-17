@@ -1,3 +1,5 @@
 Allan 1
 
 Allan jobbar 25%
+
+Allan klar 50%
